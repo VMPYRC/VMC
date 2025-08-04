@@ -22,6 +22,29 @@
 - Plural items are listed as singular
   - 5 Iron Ingots -> 5 Iron Ingot
 
+### Beds
+
+| Input | Output |     Recycle      |
+| :---: | :----: | :--------------: |
+| 1 Bed | 3 Wool | `Vanilla`, Input |
+
+- Black
+- Blue
+- Brown
+- Cyan
+- Gray
+- Green
+- Light Blue
+- Light Gray
+- Lime
+- Magenta
+- Orange
+- Pink
+- Purple
+- Red
+- White
+- Yellow
+
 ### Block Conversions (Shapeless)
 
 | Input             | Output           |     Recycle      |
