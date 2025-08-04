@@ -50,6 +50,32 @@
   - Diamond Armor = Diamond
 - 1 Turtle Helmet = 5 Turtle Scute
 
+### Tools
+
+- Tools can be crafted back into their original material
+- Examples
+  - Diamond Axe = 3 Diamond
+  - Wooden Axe = 8 Stick
+    - Wooden Axe = 3 Plank, 2 Stick
+    - 2 Plank = 4 Stick (Vanilla Recipe)
+    - 1 Plank = 2 Stick (Assumed Ratio)
+    - 3 Plank = 6 Stick
+    - 6 Stick + 2 Stick = 8 Stick Total
+- Conversions
+  - 3 = Axe
+  - 2 = Hoe
+  - 3 = Pickaxe
+  - 1 = Shovel
+  - 2 = Sword
+- Tools
+  - Wooden Tools = Sticks (See example above)
+  - Stone Tools = Cobblestone
+  - Copper Tools = Copper Ingot
+  - Iron Tools = Iron Ingot
+  - Golden Tools = Gold Ingot
+  - Diamond Tools = Diamond
+- 1 Flint and Steel = 1 Iron Ingot
+
 ### Beds
 
 | Input | Output |     Recycle      |
