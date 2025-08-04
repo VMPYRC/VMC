@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["sSs", "sgs", "sGs"],
+  "key": {
+    "s": "stone",
+    "S": "stick",
+    "g": "gold_ingot",
+    "G": "gold_nugget"
+  },
+  "result": {
+    "id": "bell",
+    "count": 1
+  }
+}

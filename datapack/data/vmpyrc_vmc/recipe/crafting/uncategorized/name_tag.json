@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["  b", " p ", "p  "],
+  "key": {
+    "b": "string",
+    "p": "paper"
+  },
+  "result": {
+    "id": "name_tag",
+    "count": 1
+  }
+}

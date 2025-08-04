@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ggg", "ggg", "ggg"],
+  "key": {
+    "g": "gravel"
+  },
+  "result": {
+    "id": "flint",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" h ", " p ", "   "],
+  "key": {
+    "h": "honey_block",
+    "p": "piston"
+  },
+  "result": {
+    "id": "sticky_piston",
+    "count": 1
+  }
+}
