@@ -43,3 +43,18 @@
 | 1 Snow Block |  4 Snowball  | `Vanilla`, Input |
 | 1 Blue Ice   | 9 Packed Ice | `Vanilla`, Input |
 | 1 Packed Ice |    9 Ice     | `Vanilla`, Input |
+
+### Minecart + Rails
+
+- Note on the Rail recipe:
+  - Original Recipe to create Rail
+    - 6 Iron Ingot + 1 Stick = 16 Rail
+  - If divided by 2... 3 Iron Ingot = 8 Rail
+
+| Input                   |    Output     |     Recycle      |
+| :---------------------- | :-----------: | :--------------: |
+| 8 Rail                  | 3 Iron Ingot  |  See Note Above  |
+| 1 Minecart              | 5 Iron Ingot  | `Vanilla`, Input |
+| 1 Minecart with Hopper  | 10 Iron Ingot |    `Vanilla`     |
+| 1 Minecart with Chest   |  1 Minecart   |    `Vanilla`     |
+| 1 Minecart with Furnace |  1 Minecart   |    `Vanilla`     |
