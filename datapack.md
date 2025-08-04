@@ -67,6 +67,17 @@
 | 1 Blue Ice   | 9 Packed Ice | `Vanilla`, Input |
 | 1 Packed Ice |    9 Ice     | `Vanilla`, Input |
 
+### Dirt
+
+| Input                            |      Output      |
+| :------------------------------- | :--------------: |
+| 1 Wheat Seed<br>1 Dirt Block     |  1 Grass Block   |
+| 4 Hanging Root<br>1 Dirt Block   |  1 Rooted Dirt   |
+| 1 Brown Mushroom<br>1 Dirt Block |    1 Mycelium    |
+| 1 Red Mushroom<br>1 Dirt Block   |    1 Mycelium    |
+| 1 Crimson Fungus<br>1 Dirt Block | 1 Crimson Nylium |
+| 1 Warped Fungus<br>1 Dirt Block  | 1 Warped Nylium  |
+
 ### Minecart + Rails
 
 - Note on the Rail recipe:
