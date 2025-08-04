@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["eEe", "gdg", "bgb"],
+  "key": {
+    "e": "emerald_block",
+    "E": "ender_eye",
+    "g": "gold_block",
+    "d": "diamond_block",
+    "b": "blaze_powder"
+  },
+  "result": {
+    "id": "totem_of_undying",
+    "count": 1
+  }
+}

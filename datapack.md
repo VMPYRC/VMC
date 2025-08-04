@@ -143,3 +143,11 @@
 | :--------------------------------------------------------------- | :----------------: |
 | 4 Prismarine Shard<br>5 Prismarine Crystals<br>1 Diamond         | 1 Heart of the Sea |
 | 1 Prismarine Shard<br>3 Prismarine Crystal<br>1 Heart of the Sea |     1 Trident      |
+
+### Powerful / Endgame
+
+| Input                                                                                  |          Output          |
+| :------------------------------------------------------------------------------------- | :----------------------: |
+| 1 End Rod<br>1 Nether Star<br>6 Phantom Membrane                                       |         1 Elytra         |
+| 8 Gold Block<br>1 Golden Apple                                                         | 1 Enchanted Golden Apple |
+| 2 Emerald Block<br>1 Eye of Ender<br>3 Gold Block<br>1 Diamond Block<br>2 Blaze Powder |    1 Totem of Undying    |
