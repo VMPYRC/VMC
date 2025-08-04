@@ -1,0 +1,9 @@
+{
+  "type": "crafting_shapeless",
+  "group": "cobblestone",
+  "ingredients": ["stone_pickaxe"],
+  "result": {
+    "id": "cobblestone",
+    "count": 3
+  }
+}
