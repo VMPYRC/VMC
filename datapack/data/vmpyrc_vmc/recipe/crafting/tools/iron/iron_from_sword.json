@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"group": "iron_ingot",
+	"ingredients": ["iron_sword"],
+	"result": {
+		"id": "iron_ingot",
+		"count": 2
+	}
+}
