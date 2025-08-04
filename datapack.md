@@ -78,6 +78,15 @@
 | 1 Crimson Fungus<br>1 Dirt Block | 1 Crimson Nylium |
 | 1 Warped Fungus<br>1 Dirt Block  | 1 Warped Nylium  |
 
+### Dyes
+
+| Input                                       |   Output    |
+| :------------------------------------------ | :---------: |
+| 1 Charcoal                                  | 1 Black Dye |
+| 1 Coal                                      | 1 Black Dye |
+| 1 Red Dye<br>1 Yellow Dye<br>1 Blue Dye<br> | 3 Brown Dye |
+| 1 Yellow Dye<br>1 Blue Dye<br>              | 2 Green Dye |
+
 ### Fungi
 
 | Input               |         Output         |     Recycle      |
