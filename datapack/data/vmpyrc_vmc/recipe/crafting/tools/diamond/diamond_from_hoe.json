@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"group": "diamond",
+	"ingredients": ["diamond_hoe"],
+	"result": {
+		"id": "diamond",
+		"count": 2
+	}
+}
