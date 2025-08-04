@@ -34,6 +34,22 @@
 | `Vanilla`                  | 1 Saddle              | 3 Leather         |
 | `Vanilla`                  | 1 Wolf Armor          | 6 Armadillo Scute |
 
+### Armor for Players
+
+- Armor can be crafted back into their original material
+- Conversions
+  - 5 = Helmet
+  - 8 = Chestplate
+  - 7 = Leggings
+  - 4 = Boots
+- Armor
+  - Copper Armor = Copper Ingot
+  - Iron Armor = Iron Ingot
+  - Golden Armor = Gold Ingot
+  - Chainmail Armor = Chain (Recycle included)
+  - Diamond Armor = Diamond
+- 1 Turtle Helmet = 5 Turtle Scute
+
 ### Beds
 
 | Input | Output |     Recycle      |
