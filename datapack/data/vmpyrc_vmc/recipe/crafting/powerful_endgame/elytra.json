@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["pep", "pnp", "p p"],
+  "key": {
+    "p": "phantom_membrane",
+    "e": "end_rod",
+    "n": "nether_star"
+  },
+  "result": {
+    "id": "elytra",
+    "count": 1
+  }
+}
