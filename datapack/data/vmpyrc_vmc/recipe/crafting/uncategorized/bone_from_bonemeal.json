@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["  b", " b ", "b  "],
+  "key": {
+    "b": "bone_meal"
+  },
+  "result": {
+    "id": "bone",
+    "count": 1
+  }
+}

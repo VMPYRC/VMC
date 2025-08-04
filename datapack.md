@@ -151,3 +151,21 @@
 | 1 End Rod<br>1 Nether Star<br>6 Phantom Membrane                                       |         1 Elytra         |
 | 8 Gold Block<br>1 Golden Apple                                                         | 1 Enchanted Golden Apple |
 | 2 Emerald Block<br>1 Eye of Ender<br>3 Gold Block<br>1 Diamond Block<br>2 Blaze Powder |    1 Totem of Undying    |
+
+### Uncategorized
+
+| Input                                               | Output              |     Recycle      |
+| :-------------------------------------------------- | :------------------ | :--------------: |
+| 1 Lava Bucket<br>1 Water Bucket                     | 1 Obsidian          |                  |
+| 1 Ghast Tear<br>8 Obsidian                          | 8 Crying Obsidian   |                  |
+| 1 Blackstone<br>4 Gold Nugget                       | 1 Gilded Blackstone |                  |
+| 1 String<br>2 Paper                                 | 1 Name Tag          |                  |
+| 1 Stick<br>6 Stone<br>1 Gold Ingot<br>1 Gold Nugget | 1 Bell              |                  |
+| 1 Beetroot Soup                                     | 1 Bowl              |                  |
+| 1 Rabbit Stew                                       | 1 Bowl              |                  |
+| 3 Bone Meal                                         | 1 Bone              | `Vanilla`, Input |
+| 9 Gravel                                            | 1 Flint             |                  |
+| 1 Filled Map                                        | 1 Map (Empty)       |                  |
+| 9 String                                            | 1 Cobweb            |      Input       |
+| 1 Rabbit Hide<br>1 String                           | 1 Bundle            |                  |
+| 1 Honey Block<br>1 Piston                           | 1 Sticky Piston     |                  |

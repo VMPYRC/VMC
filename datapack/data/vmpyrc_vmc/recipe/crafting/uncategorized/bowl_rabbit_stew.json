@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": ["rabbit_stew"],
+  "result": {
+    "id": "bowl",
+    "count": 1
+  }
+}
