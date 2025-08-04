@@ -58,3 +58,30 @@
 | 1 Minecart with Hopper  | 10 Iron Ingot |    `Vanilla`     |
 | 1 Minecart with Chest   |  1 Minecart   |    `Vanilla`     |
 | 1 Minecart with Furnace |  1 Minecart   |    `Vanilla`     |
+
+### Music Discs
+
+- 2 Music Disc = 1 Music Disc (Next)
+- Example: 2 Music Disc (13) = 1 Music Disc (cat)
+- Based on track order
+
+1. 13
+2. cat
+3. blocks
+4. chirp
+5. far
+6. mall
+7. mellohi
+8. stal
+9. strad
+10. ward
+11. 11
+12. wait
+13. otherside
+14. 5
+15. Pigstep
+16. Relic
+17. Creator
+18. Creator (Music Box)
+19. Precipice
+20. Tears
