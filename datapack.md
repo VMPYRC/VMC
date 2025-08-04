@@ -10,3 +10,4 @@
 | Raw Copper Block | Copper Block |
 |  Raw Gold Block  |  Gold Block  |
 |  Raw Iron Block  |  Iron Block  |
+|   Rotten Flesh   |   Leather    |
