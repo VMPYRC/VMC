@@ -78,6 +78,14 @@
 | 1 Crimson Fungus<br>1 Dirt Block | 1 Crimson Nylium |
 | 1 Warped Fungus<br>1 Dirt Block  | 1 Warped Nylium  |
 
+### Fungi
+
+| Input               |         Output         |     Recycle      |
+| :------------------ | :--------------------: | :--------------: |
+| 4 Brown Mushroom    | 1 Brown Mushroom Block |      Input       |
+| 4 Red Mushroom      |  1 Red Mushroom Block  |      Input       |
+| 1 Nether Wart Block |     9 Nether Wart      | `Vanilla`, Input |
+
 ### Minecart + Rails
 
 - Note on the Rail recipe:
