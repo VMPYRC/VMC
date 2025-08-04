@@ -136,3 +136,10 @@
 18. Creator (Music Box)
 19. Precipice
 20. Tears
+
+### Ocean / Aquatic
+
+| Input                                                            |       Output       |
+| :--------------------------------------------------------------- | :----------------: |
+| 4 Prismarine Shard<br>5 Prismarine Crystals<br>1 Diamond         | 1 Heart of the Sea |
+| 1 Prismarine Shard<br>3 Prismarine Crystal<br>1 Heart of the Sea |     1 Trident      |
