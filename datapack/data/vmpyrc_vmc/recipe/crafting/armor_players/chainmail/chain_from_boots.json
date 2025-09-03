@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"group": "chainmail",
+	"ingredients": ["chainmail_boots"],
+	"result": {
+		"id": "chain",
+		"count": 4
+	}
+}
