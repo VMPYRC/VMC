@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["  i", "isi", "i i"],
+  "key": {
+    "i": "iron_ingot",
+    "s": "saddle"
+  },
+  "result": {
+    "id": "iron_horse_armor",
+    "count": 1
+  }
+}

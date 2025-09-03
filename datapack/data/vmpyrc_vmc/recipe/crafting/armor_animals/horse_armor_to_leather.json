@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"group": "leather",
+	"ingredients": ["leather_horse_armor"],
+	"result": {
+		"id": "leather",
+		"count": 7
+	}
+}
