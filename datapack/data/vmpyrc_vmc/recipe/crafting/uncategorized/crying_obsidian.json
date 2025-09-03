@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["ooo", "ogo", "ooo"],
+  "key": {
+    "o": "obsidian",
+    "g": "ghast_tear"
+  },
+  "result": {
+    "id": "crying_obsidian",
+    "count": 8
+  }
+}
