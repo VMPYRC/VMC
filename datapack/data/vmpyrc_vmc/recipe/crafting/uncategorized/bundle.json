@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" s ", " r ", "   "],
+  "key": {
+    "s": "string",
+    "r": "rabbit_hide"
+  },
+  "result": {
+    "id": "bundle",
+    "count": 1
+  }
+}
