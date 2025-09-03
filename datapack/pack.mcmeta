@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "GitHub-VMPYRC-VMC",
+    "min_format": [82, 0],
+    "max_format": [83, 0]
+  }
+}
