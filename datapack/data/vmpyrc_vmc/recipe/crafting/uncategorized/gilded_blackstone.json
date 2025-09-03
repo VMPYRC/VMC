@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [" g ", "gbg", " g "],
+  "key": {
+    "g": "gold_nugget",
+    "b": "blackstone"
+  },
+  "result": {
+    "id": "gilded_blackstone",
+    "count": 1
+  }
+}
