@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "group": "chainmail",
+  "pattern": ["CCC", "C C", "C C"],
+  "key": {
+    "C": "chain"
+  },
+  "result": {
+    "id": "chainmail_leggings",
+    "count": 1
+  }
+}
