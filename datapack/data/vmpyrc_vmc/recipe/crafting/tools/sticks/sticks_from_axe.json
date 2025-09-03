@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"group": "sticks",
+	"ingredients": ["wooden_axe"],
+	"result": {
+		"id": "stick",
+		"count": 8
+	}
+}
