@@ -1,7 +1,7 @@
 {
   "pack": {
-    "description": "GitHub-VMPYRC-VMC for Java Edition 25w37a",
+    "description": "GitHub-VMPYRC-VMC for Java Edition 1.21.9 Pre-Release 1",
     "min_format": [82, 0],
-    "max_format": [87, 0]
+    "max_format": [87, 1]
   }
 }
