@@ -16,6 +16,7 @@
 ## Datapack
 
 - Add recipes to
-  - ?
+  - https://minecraft.wiki/w/Nautilus_Armor
+  - Netherite Tools = Netherite Ingot
 - Check recipes to
   - ?
