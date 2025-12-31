@@ -1,6 +1,9 @@
 {
   "type": "crafting_shapeless",
-  "ingredients": ["music_disc_tears", "music_disc_tears"],
+  "ingredients": [
+    "music_disc_tears",
+    "music_disc_tears"
+  ],
   "result": {
     "id": "music_disc_lava_chicken",
     "count": 1

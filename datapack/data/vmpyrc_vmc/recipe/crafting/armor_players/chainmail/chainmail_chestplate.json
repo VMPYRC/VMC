@@ -1,7 +1,11 @@
 {
   "type": "crafting_shaped",
   "group": "chainmail",
-  "pattern": ["C C", "CCC", "CCC"],
+  "pattern": [
+    "C C",
+    "CCC",
+    "CCC"
+  ],
   "key": {
     "C": "chain"
   },

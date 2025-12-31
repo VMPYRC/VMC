@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["pep", "pnp", "p p"],
+  "pattern": [
+    "pep",
+    "pnp",
+    "p p"
+  ],
   "key": {
     "p": "phantom_membrane",
     "e": "end_rod",

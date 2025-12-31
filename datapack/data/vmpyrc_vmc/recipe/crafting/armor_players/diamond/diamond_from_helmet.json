@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "diamond",
-	"ingredients": ["diamond_helmet"],
+	"ingredients": [
+		"diamond_helmet"
+	],
 	"result": {
 		"id": "diamond",
 		"count": 5

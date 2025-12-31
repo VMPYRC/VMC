@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["  b", " p ", "p  "],
+  "pattern": [
+    "  b",
+    " p ",
+    "p  "
+  ],
   "key": {
     "b": "string",
     "p": "paper"

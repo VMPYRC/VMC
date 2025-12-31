@@ -1,6 +1,9 @@
 {
   "type": "crafting_shapeless",
-  "ingredients": ["music_disc_cat", "music_disc_cat"],
+  "ingredients": [
+    "music_disc_cat",
+    "music_disc_cat"
+  ],
   "result": {
     "id": "music_disc_blocks",
     "count": 1

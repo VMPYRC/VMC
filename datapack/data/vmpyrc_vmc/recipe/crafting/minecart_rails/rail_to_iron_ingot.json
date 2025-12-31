@@ -1,7 +1,11 @@
 {
   "type": "crafting_shaped",
   "group": "iron_ingot",
-  "pattern": ["RRR", "R R", "RRR"],
+  "pattern": [
+    "RRR",
+    "R R",
+    "RRR"
+  ],
   "key": {
     "R": "rail"
   },

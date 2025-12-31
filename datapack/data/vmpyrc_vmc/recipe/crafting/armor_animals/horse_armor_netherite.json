@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"  n",
+		"nsn",
+		"n n"
+	],
+	"key": {
+		"n": "netherite_ingot",
+		"s": "saddle"
+	},
+	"result": {
+		"id": "netherite_horse_armor",
+		"count": 1
+	}
+}

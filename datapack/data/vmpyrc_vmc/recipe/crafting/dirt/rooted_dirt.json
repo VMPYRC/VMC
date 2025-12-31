@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": [" h ", "hdh", " h "],
+  "pattern": [
+    " h ",
+    "hdh",
+    " h "
+  ],
   "key": {
     "h": "hanging_roots",
     "d": "dirt"

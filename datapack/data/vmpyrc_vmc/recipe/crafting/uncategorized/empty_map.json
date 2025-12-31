@@ -1,6 +1,8 @@
 {
 	"type": "crafting_shapeless",
-	"ingredients": ["filled_map"],
+	"ingredients": [
+		"filled_map"
+	],
 	"result": {
 		"id": "map",
 		"count": 1

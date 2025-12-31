@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "diamond",
-	"ingredients": ["diamond_sword"],
+	"ingredients": [
+		"diamond_sword"
+	],
 	"result": {
 		"id": "diamond",
 		"count": 2

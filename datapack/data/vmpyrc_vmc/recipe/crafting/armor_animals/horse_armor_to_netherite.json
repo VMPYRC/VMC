@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "netherite",
+	"ingredients": [
+		"netherite_horse_armor"
+	],
+	"result": {
+		"id": "netherite_ingot",
+		"count": 5
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "copper_ingot",
+	"ingredients": [
+		"copper_spear"
+	],
+	"result": {
+		"id": "copper_ingot",
+		"count": 1
+	}
+}

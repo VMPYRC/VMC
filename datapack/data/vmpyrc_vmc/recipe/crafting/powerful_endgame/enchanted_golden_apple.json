@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["ggg", "gGg", "ggg"],
+  "pattern": [
+    "ggg",
+    "gGg",
+    "ggg"
+  ],
   "key": {
     "g": "gold_block",
     "G": "golden_apple"

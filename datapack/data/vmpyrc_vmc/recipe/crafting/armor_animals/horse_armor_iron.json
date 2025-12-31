@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["  i", "isi", "i i"],
+  "pattern": [
+    "  i",
+    "isi",
+    "i i"
+  ],
   "key": {
     "i": "iron_ingot",
     "s": "saddle"

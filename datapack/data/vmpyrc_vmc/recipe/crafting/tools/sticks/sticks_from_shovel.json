@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "sticks",
-	"ingredients": ["wooden_shovel"],
+	"ingredients": [
+		"wooden_shovel"
+	],
 	"result": {
 		"id": "stick",
 		"count": 4

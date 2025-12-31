@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["sSs", "sgs", "sGs"],
+  "pattern": [
+    "sSs",
+    "sgs",
+    "sGs"
+  ],
   "key": {
     "s": "stone",
     "S": "stick",

@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "iron_ingot",
-	"ingredients": ["iron_helmet"],
+	"ingredients": [
+		"iron_helmet"
+	],
 	"result": {
 		"id": "iron_ingot",
 		"count": 5

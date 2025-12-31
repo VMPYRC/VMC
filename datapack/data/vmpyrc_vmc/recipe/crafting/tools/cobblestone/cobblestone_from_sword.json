@@ -1,7 +1,9 @@
 {
   "type": "crafting_shapeless",
   "group": "cobblestone",
-  "ingredients": ["stone_sword"],
+  "ingredients": [
+    "stone_sword"
+  ],
   "result": {
     "id": "cobblestone",
     "count": 2

@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["pPp", "PdP", "pPp"],
+  "pattern": [
+    "pPp",
+    "PdP",
+    "pPp"
+  ],
   "key": {
     "p": "prismarine_shard",
     "P": "prismarine_crystals",

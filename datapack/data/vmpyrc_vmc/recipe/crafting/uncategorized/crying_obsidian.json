@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["ooo", "ogo", "ooo"],
+  "pattern": [
+    "ooo",
+    "ogo",
+    "ooo"
+  ],
   "key": {
     "o": "obsidian",
     "g": "ghast_tear"

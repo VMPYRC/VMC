@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "iron_ingot",
-	"ingredients": ["iron_leggings"],
+	"ingredients": [
+		"iron_leggings"
+	],
 	"result": {
 		"id": "iron_ingot",
 		"count": 7
