@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "gold_ingot",
-	"ingredients": ["golden_chestplate"],
+	"ingredients": [
+		"golden_chestplate"
+	],
 	"result": {
 		"id": "gold_ingot",
 		"count": 8

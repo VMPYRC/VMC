@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["  b", " b ", "b  "],
+  "pattern": [
+    "  b",
+    " b ",
+    "b  "
+  ],
   "key": {
     "b": "bone_meal"
   },

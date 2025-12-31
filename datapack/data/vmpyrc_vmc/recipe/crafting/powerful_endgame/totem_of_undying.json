@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["eEe", "gdg", "bgb"],
+  "pattern": [
+    "eEe",
+    "gdg",
+    "bgb"
+  ],
   "key": {
     "e": "emerald_block",
     "E": "ender_eye",

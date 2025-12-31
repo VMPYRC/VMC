@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": [" g ", "gbg", " g "],
+  "pattern": [
+    " g ",
+    "gbg",
+    " g "
+  ],
   "key": {
     "g": "gold_nugget",
     "b": "blackstone"

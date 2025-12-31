@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "sticks",
-	"ingredients": ["wooden_sword"],
+	"ingredients": [
+		"wooden_sword"
+	],
 	"result": {
 		"id": "stick",
 		"count": 5

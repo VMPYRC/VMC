@@ -1,7 +1,9 @@
 {
   "type": "crafting_shapeless",
   "group": "copper_ingot",
-  "ingredients": ["copper_chestplate"],
+  "ingredients": [
+    "copper_chestplate"
+  ],
   "result": {
     "id": "copper_ingot",
     "count": 8

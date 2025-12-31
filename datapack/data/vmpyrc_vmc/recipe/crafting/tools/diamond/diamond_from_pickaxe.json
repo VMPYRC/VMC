@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "diamond",
-	"ingredients": ["diamond_pickaxe"],
+	"ingredients": [
+		"diamond_pickaxe"
+	],
 	"result": {
 		"id": "diamond",
 		"count": 3

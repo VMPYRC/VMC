@@ -1,11 +1,11 @@
 {
 	"type": "crafting_shapeless",
-	"group": "sticks",
+	"group": "diamond",
 	"ingredients": [
-		"wooden_shovel"
+		"diamond_spear"
 	],
 	"result": {
-		"id": "stick",
-		"count": 4
+		"id": "diamond",
+		"count": 1
 	}
 }

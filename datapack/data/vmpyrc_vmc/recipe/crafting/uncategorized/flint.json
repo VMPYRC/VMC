@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["ggg", "ggg", "ggg"],
+  "pattern": [
+    "ggg",
+    "ggg",
+    "ggg"
+  ],
   "key": {
     "g": "gravel"
   },

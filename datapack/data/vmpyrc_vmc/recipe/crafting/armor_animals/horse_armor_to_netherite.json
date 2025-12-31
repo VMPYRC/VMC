@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"group": "leather",
+	"group": "netherite",
 	"ingredients": [
 		"netherite_horse_armor"
 	],

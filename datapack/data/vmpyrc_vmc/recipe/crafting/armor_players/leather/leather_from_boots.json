@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "leather",
-	"ingredients": ["leather_boots"],
+	"ingredients": [
+		"leather_boots"
+	],
 	"result": {
 		"id": "leather",
 		"count": 4

@@ -1,6 +1,9 @@
 {
 	"type": "crafting_shapeless",
-	"ingredients": ["warped_fungus", "dirt"],
+	"ingredients": [
+		"warped_fungus",
+		"dirt"
+	],
 	"result": {
 		"id": "warped_nylium",
 		"count": 1

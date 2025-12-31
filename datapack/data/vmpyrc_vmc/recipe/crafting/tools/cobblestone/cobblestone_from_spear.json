@@ -1,11 +1,11 @@
 {
 	"type": "crafting_shapeless",
+	"group": "cobblestone",
 	"ingredients": [
-		"crimson_fungus",
-		"dirt"
+		"stone_spear"
 	],
 	"result": {
-		"id": "crimson_nylium",
+		"id": "cobblestone",
 		"count": 1
 	}
 }

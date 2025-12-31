@@ -2,7 +2,7 @@
 	"type": "crafting_shapeless",
 	"group": "sticks",
 	"ingredients": [
-		"wooden_shovel"
+		"wooden_spear"
 	],
 	"result": {
 		"id": "stick",

@@ -1,6 +1,9 @@
 {
   "type": "crafting_shapeless",
-  "ingredients": ["music_disc_precipice", "music_disc_precipice"],
+  "ingredients": [
+    "music_disc_precipice",
+    "music_disc_precipice"
+  ],
   "result": {
     "id": "music_disc_tears",
     "count": 1

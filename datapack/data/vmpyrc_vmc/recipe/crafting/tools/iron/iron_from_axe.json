@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "iron_ingot",
-	"ingredients": ["iron_axe"],
+	"ingredients": [
+		"iron_axe"
+	],
 	"result": {
 		"id": "iron_ingot",
 		"count": 3

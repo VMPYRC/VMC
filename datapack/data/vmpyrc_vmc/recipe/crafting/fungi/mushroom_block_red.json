@@ -1,6 +1,9 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["bb", "bb"],
+  "pattern": [
+    "bb",
+    "bb"
+  ],
   "key": {
     "b": "red_mushroom"
   },

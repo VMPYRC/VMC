@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "gold_ingot",
-	"ingredients": ["golden_shovel"],
+	"ingredients": [
+		"golden_shovel"
+	],
 	"result": {
 		"id": "gold_ingot",
 		"count": 1

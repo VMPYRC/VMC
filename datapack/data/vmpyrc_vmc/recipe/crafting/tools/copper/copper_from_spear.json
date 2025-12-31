@@ -1,11 +1,11 @@
 {
 	"type": "crafting_shapeless",
+	"group": "copper_ingot",
 	"ingredients": [
-		"crimson_fungus",
-		"dirt"
+		"copper_spear"
 	],
 	"result": {
-		"id": "crimson_nylium",
+		"id": "copper_ingot",
 		"count": 1
 	}
 }

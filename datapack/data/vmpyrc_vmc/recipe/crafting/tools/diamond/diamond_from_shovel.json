@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "diamond",
-	"ingredients": ["diamond_shovel"],
+	"ingredients": [
+		"diamond_shovel"
+	],
 	"result": {
 		"id": "diamond",
 		"count": 1

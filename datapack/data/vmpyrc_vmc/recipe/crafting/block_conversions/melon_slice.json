@@ -1,6 +1,8 @@
 {
 	"type": "crafting_shapeless",
-	"ingredients": ["melon"],
+	"ingredients": [
+		"melon"
+	],
 	"result": {
 		"id": "melon_slice",
 		"count": 9

@@ -67,6 +67,7 @@
   - 2 = Hoe
   - 3 = Pickaxe
   - 1 = Shovel
+  - 1 = Spear
   - 2 = Sword
 - Tools
   - Wooden Tools = Sticks (See example above)
