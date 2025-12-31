@@ -1,6 +1,9 @@
 {
   "type": "crafting_shapeless",
-  "ingredients": ["music_disc_5", "music_disc_5"],
+  "ingredients": [
+    "music_disc_5",
+    "music_disc_5"
+  ],
   "result": {
     "id": "music_disc_pigstep",
     "count": 1

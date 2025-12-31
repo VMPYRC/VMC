@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": [" h ", " p ", "   "],
+  "pattern": [
+    " h ",
+    " p ",
+    "   "
+  ],
   "key": {
     "h": "honey_block",
     "p": "piston"

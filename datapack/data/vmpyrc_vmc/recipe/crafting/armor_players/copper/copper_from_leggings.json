@@ -1,7 +1,9 @@
 {
   "type": "crafting_shapeless",
   "group": "copper_ingot",
-  "ingredients": ["copper_leggings"],
+  "ingredients": [
+    "copper_leggings"
+  ],
   "result": {
     "id": "copper_ingot",
     "count": 7

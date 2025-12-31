@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "gold_ingot",
-	"ingredients": ["golden_pickaxe"],
+	"ingredients": [
+		"golden_pickaxe"
+	],
 	"result": {
 		"id": "gold_ingot",
 		"count": 3

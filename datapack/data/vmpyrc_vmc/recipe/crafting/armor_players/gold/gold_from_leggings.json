@@ -1,7 +1,9 @@
 {
 	"type": "crafting_shapeless",
 	"group": "gold_ingot",
-	"ingredients": ["golden_leggings"],
+	"ingredients": [
+		"golden_leggings"
+	],
 	"result": {
 		"id": "gold_ingot",
 		"count": 7

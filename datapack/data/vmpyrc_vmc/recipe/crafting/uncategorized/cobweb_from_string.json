@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["sss", "sss", "sss"],
+  "pattern": [
+    "sss",
+    "sss",
+    "sss"
+  ],
   "key": {
     "s": "string"
   },
