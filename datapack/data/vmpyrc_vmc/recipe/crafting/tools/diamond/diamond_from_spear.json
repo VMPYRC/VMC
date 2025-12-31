@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "diamond",
+	"ingredients": [
+		"diamond_spear"
+	],
+	"result": {
+		"id": "diamond",
+		"count": 1
+	}
+}

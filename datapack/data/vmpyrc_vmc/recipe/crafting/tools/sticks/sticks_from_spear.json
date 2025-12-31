@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "sticks",
+	"ingredients": [
+		"wooden_spear"
+	],
+	"result": {
+		"id": "stick",
+		"count": 4
+	}
+}
