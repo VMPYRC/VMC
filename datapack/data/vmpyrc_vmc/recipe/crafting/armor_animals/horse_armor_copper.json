@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["  c", "csc", "c c"],
+  "pattern": [
+    "  c",
+    "csc",
+    "c c"
+  ],
   "key": {
     "c": "copper_ingot",
     "s": "saddle"

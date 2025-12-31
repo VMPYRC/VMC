@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["  g", "gsg", "g g"],
+  "pattern": [
+    "  g",
+    "gsg",
+    "g g"
+  ],
   "key": {
     "g": "gold_ingot",
     "s": "saddle"

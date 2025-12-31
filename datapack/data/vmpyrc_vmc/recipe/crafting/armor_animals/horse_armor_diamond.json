@@ -1,6 +1,10 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["  d", "dsd", "d d"],
+  "pattern": [
+    "  d",
+    "dsd",
+    "d d"
+  ],
   "key": {
     "d": "diamond",
     "s": "saddle"

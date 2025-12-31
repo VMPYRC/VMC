@@ -1,7 +1,9 @@
 {
   "type": "crafting_shapeless",
   "group": "copper_ingot",
-  "ingredients": ["copper_horse_armor"],
+  "ingredients": [
+    "copper_horse_armor"
+  ],
   "result": {
     "id": "copper_ingot",
     "count": 5
