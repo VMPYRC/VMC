@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"iii",
+		"ini",
+		"iii"
+	],
+	"key": {
+		"i": "iron_ingot",
+		"n": "nautilus_shell"
+	},
+	"result": {
+		"id": "iron_nautilus_armor",
+		"count": 1
+	}
+}

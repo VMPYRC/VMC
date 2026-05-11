@@ -24,16 +24,21 @@
 
 ### Armor for Animals
 
-| Input                         | Output                  | Recycle           |
-| ----------------------------- | :---------------------- | :---------------- |
-| `Vanilla`                     | 1 Leather Horse Armor   | 7 Leather         |
-| 5 Copper Ingot<br>1 Saddle    | 1 Copper Horse Armor    | 5 Copper Ingot    |
-| 5 Iron Ingot<br>1 Saddle      | 1 Iron Horse Armor      | 5 Iron Ingot      |
-| 5 Gold Ingot<br>1 Saddle      | 1 Golden Horse Armor    | 5 Gold Ingot      |
-| 5 Diamond<br>1 Saddle         | 1 Diamond Horse Armor   | 5 Diamond         |
-| 5 Netherite Ingot<br>1 Saddle | 1 Netherite Horse Armor | 5 Netherite Ingot |
-| `Vanilla`                     | 1 Saddle                | 3 Leather         |
-| `Vanilla`                     | 1 Wolf Armor            | 6 Armadillo Scute |
+| Input                                 | Output                     | Recycle           |
+| ------------------------------------- | :------------------------- | :---------------- |
+| `Vanilla`                             | 1 Leather Horse Armor      | 7 Leather         |
+| 5 Copper Ingot<br>1 Saddle            | 1 Copper Horse Armor       | 5 Copper Ingot    |
+| 5 Iron Ingot<br>1 Saddle              | 1 Iron Horse Armor         | 5 Iron Ingot      |
+| 5 Gold Ingot<br>1 Saddle              | 1 Golden Horse Armor       | 5 Gold Ingot      |
+| 5 Diamond<br>1 Saddle                 | 1 Diamond Horse Armor      | 5 Diamond         |
+| 5 Netherite Ingot<br>1 Saddle         | 1 Netherite Horse Armor    | 5 Netherite Ingot |
+| `Vanilla`                             | 1 Saddle                   | 3 Leather         |
+| `Vanilla`                             | 1 Wolf Armor               | 6 Armadillo Scute |
+| 8 Copper Ingot<br>1 Nautilus Shell    | 1 Copper Nautilus Armor    | 8 Copper Ingot    |
+| 8 Iron Ingot<br>1 Nautilus Shell      | 1 Iron Nautilus Armor      | 8 Iron Ingot      |
+| 8 Gold Ingot<br>1 Nautilus Shell      | 1 Gold Nautilus Armor      | 8 Gold Ingot      |
+| 8 Diamond<br>1 Nautilus Shell         | 1 Diamond Nautilus Armor   | 8 Diamond         |
+| 8 Netherite Ingot<br>1 Nautilus Shell | 1 Netherite Nautilus Armor | 8 Netherite Ingot |
 
 ### Armor for Players
 

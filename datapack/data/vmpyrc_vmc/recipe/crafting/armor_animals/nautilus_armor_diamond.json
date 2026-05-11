@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ddd",
+		"dnd",
+		"ddd"
+	],
+	"key": {
+		"d": "diamond",
+		"n": "nautilus_shell"
+	},
+	"result": {
+		"id": "diamond_nautilus_armor",
+		"count": 1
+	}
+}
