@@ -16,6 +16,17 @@
 ## Datapack
 
 - Add recipes to
-  - Netherite Tools = Netherite Ingot
+  - ?
 - Check recipes to
   - ?
+
+### Rejected Recipes
+
+- Netherite Tools recycle to Netherite Ingot
+  - netherite axe (vanilla recipe)
+    - netherite upgrade
+    - diamond hoe
+    - netherite ingot
+  - diamond axe (vanilla recipe)
+    - 3 diamond
+    - 2 stick
