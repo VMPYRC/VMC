@@ -19,6 +19,7 @@
 - `Output` = the crafted items you receive
 - `Recycle` = `Output` items that can convert back to the original `Input` materials
 - `Vanilla` = Recipe available in Vanilla
+- `Vanilla`, Input = Recipe available in Vanilla, see the Input column
 - Plural items are listed as singular
   - 5 Iron Ingots -> 5 Iron Ingot
 
