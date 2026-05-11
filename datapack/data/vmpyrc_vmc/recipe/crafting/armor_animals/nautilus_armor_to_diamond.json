@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"group": "diamond",
+	"ingredients": [
+		"diamond_nautilus_armor"
+	],
+	"result": {
+		"id": "diamond",
+		"count": 8
+	}
+}
