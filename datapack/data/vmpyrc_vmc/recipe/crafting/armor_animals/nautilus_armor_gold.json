@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ggg",
+		"gng",
+		"ggg"
+	],
+	"key": {
+		"g": "gold_ingot",
+		"n": "nautilus_shell"
+	},
+	"result": {
+		"id": "golden_nautilus_armor",
+		"count": 1
+	}
+}

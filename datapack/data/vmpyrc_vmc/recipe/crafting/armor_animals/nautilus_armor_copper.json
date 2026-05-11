@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ccc",
+		"cnc",
+		"ccc"
+	],
+	"key": {
+		"c": "copper_ingot",
+		"n": "nautilus_shell"
+	},
+	"result": {
+		"id": "copper_nautilus_armor",
+		"count": 1
+	}
+}

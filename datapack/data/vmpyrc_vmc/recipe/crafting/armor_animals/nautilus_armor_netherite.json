@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"NNN",
+		"NnN",
+		"NNN"
+	],
+	"key": {
+		"N": "netherite_ingot",
+		"n": "nautilus_shell"
+	},
+	"result": {
+		"id": "netherite_nautilus_armor",
+		"count": 1
+	}
+}
