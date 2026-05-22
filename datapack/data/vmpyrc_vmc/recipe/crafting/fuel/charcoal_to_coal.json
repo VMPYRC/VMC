@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"charcoal",
+		"charcoal"
+	],
+	"result": {
+		"id": "coal",
+		"count": 2
+	}
+}
