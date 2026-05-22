@@ -53,7 +53,7 @@
   - Copper Armor = Copper Ingot
   - Iron Armor = Iron Ingot
   - Golden Armor = Gold Ingot
-  - Chainmail Armor = Chain (Recycle included)
+  - Chainmail Armor = Iron Chain (Recycle included)
   - Diamond Armor = Diamond
 - 1 Turtle Helmet = 5 Turtle Scute
 
