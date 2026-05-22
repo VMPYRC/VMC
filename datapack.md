@@ -149,6 +149,12 @@
 | 1 Red Dye<br>1 Yellow Dye<br>1 Blue Dye<br> | 3 Brown Dye |
 | 1 Yellow Dye<br>1 Blue Dye<br>              | 2 Green Dye |
 
+### Fuel
+
+| Input      | Output | Recycle |
+| :--------- | :----: | :-----: |
+| 2 Charcoal | 2 Coal |  Input  |
+
 ### Fungi
 
 | Input               |         Output         |     Recycle      |
