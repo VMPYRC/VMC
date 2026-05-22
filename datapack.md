@@ -221,7 +221,6 @@
 | 1 Lava Bucket<br>1 Water Bucket                     | 1 Obsidian          |                  |
 | 1 Ghast Tear<br>8 Obsidian                          | 8 Crying Obsidian   |                  |
 | 1 Blackstone<br>4 Gold Nugget                       | 1 Gilded Blackstone |                  |
-| 1 String<br>2 Paper                                 | 1 Name Tag          |                  |
 | 1 Stick<br>6 Stone<br>1 Gold Ingot<br>1 Gold Nugget | 1 Bell              |                  |
 | 1 Beetroot Soup                                     | 1 Bowl              |                  |
 | 1 Rabbit Stew                                       | 1 Bowl              |                  |
